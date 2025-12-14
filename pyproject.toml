@@ -1,0 +1,7 @@
+[project]
+name = "cheeseapp"
+version = "0.1.0"
+description = "cheese and more cheese"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["fastapi","asyncpg", "uvicorn"]
